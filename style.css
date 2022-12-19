@@ -1,5 +1,6 @@
 .body_backgorund 
 {
+    
     background-image:url(hOye.gif);
     background-position:center;
     background-size:cover;
@@ -10,5 +11,13 @@
    background-color: white;
    border-style: ridge;
    background-color: darkviolet;
+   
 }
-
+h1{
+    background-color: rgb(215, 125, 61);
+    color: white;
+}
+button{
+    color: white;
+    background-color: hotpink;
+}
